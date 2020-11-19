@@ -15,11 +15,11 @@ The more fit individuals are stochastically selected from the current population
 to form a new chromosome.
 
 
-##Selection (Fitness score conditions)
+## Selection (Fitness score conditions)
 
--The program shouldn't have any recesses.
--No teacher should teach for more than two continuous hours.
--The daily number of teaching hours of each department should be evenly distributed.
--The teaching hours of each course in a class should be as evenly distributed as possible on all days of the week
--The number of teaching hours per week should be evenly distributed for all teachers.
+- The program shouldn't have any recesses.
+- No teacher should teach for more than two continuous hours.
+- The daily number of teaching hours of each department should be evenly distributed.
+- The teaching hours of each course in a class should be as evenly distributed as possible on all days of the week
+- The number of teaching hours per week should be evenly distributed for all teachers.
 
