@@ -1,7 +1,7 @@
 # AI-Scheduler
 Implementation of a time table using AI methods.
 
-Generating a high school curriculum with **genetic** algorithms by relying on  
+Generating a high school curriculum with **genetic** algorithms by relying on 
 ***chromosomes***, ***mutation***, ***crossover***, and ***selection***.
 
 >In a genetic algorithm, a population of candidate solutions to an optimization problem is evolved toward better solutions. 
@@ -25,6 +25,7 @@ The more fit individuals are stochastically selected from the current population
 ### Specifically
 
 Assuming that each week has five teaching days, each with a maximum of seven hours.  
-The program receives two files with courses and teacher's info. The purpose is to find a schedule that meets the conditions of those two files.  
+The program receives two files with courses and teacher's info.  
+The purpose is to find a schedule that meets the conditions of those two files.  
 Eventually generating a schedule file that represents the weekly schedule for the high school.
 
