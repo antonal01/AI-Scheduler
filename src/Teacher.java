@@ -1,5 +1,3 @@
-//Κωτσομητόπουλος Σταύρος - ΑΜ: 3150086
-//Αντωνίου Αλέξανδρος - ΑΜ: 3140248
 
 import java.util.ArrayList;
 import java.util.List;
