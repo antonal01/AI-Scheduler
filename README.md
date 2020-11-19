@@ -29,3 +29,6 @@ The program receives two files with courses and teacher's info.
 The purpose is to find a schedule that meets the conditions of those two files.  
 Eventually generating a schedule file that represents the weekly schedule for the high school.
 
+The algorithm produces the desired results depending on the input data given.  
+The accuracy of the results depends on the number of chromosomes, the mutation probability,  
+maximum fitness score, and the maximum number of steps algorithm.
