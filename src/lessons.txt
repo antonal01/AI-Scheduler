@@ -1,0 +1,108 @@
+100,Literature,A1,4
+101,Maths,A1,4
+102,Physics,A1,4
+103,Chemistry,A1,4
+104,Biology,A1,4
+105,Geography,A1,2
+106,History,A1,4
+107,English,A1,2
+108,Physical Education,A1,2
+109,Information Technology,A1,2
+110,Music Class,A1,2
+111,Art Class,A1,1
+112,Literature,A2,4
+113,Maths,A2,4
+114,Physics,A2,4
+115,Chemistry,A2,4
+116,Biology,A2,4
+117,Geography,A2,2
+118,History,A2,4
+119,English,A2,2
+120,Physical Education,A2,2
+121,Information Technology,A2,2
+122,Music Class,A2,2
+123,Art Class,A2,1
+124,Literature,A3,4
+125,Maths,A3,4
+126,Physics,A3,4
+127,Chemistry,A3,4
+128,Biology,A3,4
+129,Geography,A3,2
+130,History,A3,4
+131,English,A3,2
+132,Physical Education,A3,2
+133,Information Technology,A3,2
+134,Music Class,A3,2
+135,Art Class,A3,1
+136,Literature,B1,4
+137,Maths,B1,4
+138,Physics,B1,4
+139,Chemistry,B1,4
+140,Biology,B1,4
+141,Geography,B1,2
+142,History,B1,4
+143,English,B1,2
+144,Physical Education,B1,2
+145,Information Technology,B1,2
+146,Music Class,B1,2
+147,Art Class,B1,1
+148,Literature,B2,4
+149,Maths,B2,4
+150,Physics,B2,4
+151,Chemistry,B2,4
+152,Biology,B2,4
+153,Geography,B2,2
+154,History,B2,4
+155,Art Class,C3,1
+156,English,B2,2
+157,Physical Education,B2,2
+158,Information Technology,B2,2
+159,Music Class,B2,2
+160,Art Class,B2,1
+161,Literature,B3,4
+162,Maths,B3,4
+163,Physics,B3,4
+164,Chemistry,B3,4
+165,Biology,B3,4
+166,Geography,B3,2
+167,History,B3,4
+168,English,B3,2
+169,Physical Education,B3,2
+170,Information Technology,B3,2
+171,Music Class,B3,2
+172,Art Class,B3,1
+173,Literature,C1,4
+174,Maths,C1,4
+175,Physics,C1,4
+176,Chemistry,C1,4
+177,Biology,C1,4
+178,Geography,C1,2
+179,History,C1,4
+180,English,C1,2
+181,Physical Education,C1,2
+182,Information Technology,C1,2
+183,Music Class,C1,2
+184,Art Class,C1,1
+185,Literature,C2,4
+186,Maths,C2,4
+187,Physics,C2,4
+188,Chemistry,C2,4
+189,Biology,C2,4
+190,Geography,C2,2
+191,History,C2,4
+192,English,C2,2
+193,Physical Education,C2,2
+194,Information Technology,C2,2
+195,Music Class,C2,2
+196,Art Class,C2,1
+197,Literature,C3,4
+198,Maths,C3,4
+199,Physics,C3,4
+200,Chemistry,C3,4
+201,Biology,C3,4
+202,Geography,C3,2
+203,History,C3,4
+204,English,C3,2
+205,Physical Education,C3,2
+206,Information Technology,C3,2
+207,Music Class,C3,2

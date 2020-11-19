@@ -1,0 +1,364 @@
+--------------------
+High School Schedule
+--------------------
+
+		 Monday:
+
+Time from : 8:00 to 9:00
+Teacher = Antoniou, lessonId= 138, className= B1
+Teacher = Tzivara, lessonId= 190, className= C2
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Tsoukala, lessonId= 128, className= A3
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Sotiropoulos, lessonId= 143, className= B1
+Teacher = Tzivara, lessonId= 117, className= A2
+Teacher = Karanikas, lessonId= 185, className= C2
+Time from : 9:00 to 10:00
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Anastasopoulou, lessonId= 196, className= C2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Apostolopoulou, lessonId= 136, className= B1
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Tsoukala, lessonId= 116, className= A2
+Teacher = Theodosiou, lessonId= 106, className= A1
+Time from : 10:00 to 11:00
+Teacher = Papadaki, lessonId= 191, className= C2
+Teacher = Tsoukala, lessonId= 140, className= B1
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Karanikas, lessonId= 173, className= C1
+Teacher = Karanikas, lessonId= 148, className= B2
+Time from : 11:00 to 12:00
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Tzivara, lessonId= 105, className= A1
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Papadaki, lessonId= 179, className= C1
+Teacher = Tzivara, lessonId= 129, className= A3
+Time from : 12:00 to 13:00
+Teacher = Ntouvlos, lessonId= 110, className= A1
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Papadaki, lessonId= 154, className= B2
+Teacher = Anastasiou, lessonId= 168, className= B3
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Ntouvlos, lessonId= 159, className= B2
+Time from : 13:00 to 14:00
+Teacher = Gkouskou, lessonId= 137, className= B1
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Kotsomitopolos, lessonId= 149, className= B2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Kotsomitopolos, lessonId= 162, className= B3
+Teacher = Tzivara, lessonId= 190, className= C2
+Teacher = Karanikas, lessonId= 185, className= C2
+Time from : 14:00 to 15:00
+Teacher = Anastasopoulou, lessonId= 160, className= B2
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Kotsomitopolos, lessonId= 149, className= B2
+Teacher = Kotsomitopolos, lessonId= 174, className= C1
+Teacher = Stavropoulos, lessonId= 145, className= B1
+Teacher = Spiropoulou, lessonId= 193, className= C2
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Tsoukala, lessonId= 116, className= A2
+		 Tuesday:
+
+Time from : 8:00 to 9:00
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Karanikas, lessonId= 173, className= C1
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Papathanasiou, lessonId= 189, className= C2
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Tsoukala, lessonId= 116, className= A2
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Time from : 9:00 to 10:00
+Teacher = Papadopoulos, lessonId= 150, className= B2
+Teacher = Tzivara, lessonId= 129, className= A3
+Teacher = Stavropoulos, lessonId= 121, className= A2
+Teacher = Kotsomitopolos, lessonId= 174, className= C1
+Teacher = Papadaki, lessonId= 154, className= B2
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Antoniou, lessonId= 138, className= B1
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Time from : 10:00 to 11:00
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Georgiou, lessonId= 188, className= C2
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Papathanasiou, lessonId= 152, className= B2
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Gkouskou, lessonId= 137, className= B1
+Teacher = Sotiropoulos, lessonId= 206, className= C3
+Teacher = Karanikas, lessonId= 148, className= B2
+Time from : 11:00 to 12:00
+Teacher = Tsoukala, lessonId= 116, className= A2
+Teacher = Papadopoulos, lessonId= 150, className= B2
+Teacher = Antoniou, lessonId= 138, className= B1
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Georgiou, lessonId= 151, className= B2
+Teacher = Koutroumpis, lessonId= 103, className= A1
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Time from : 12:00 to 13:00
+Teacher = Koutroumpis, lessonId= 103, className= A1
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Koutroumpis, lessonId= 127, className= A3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Anastasopoulou, lessonId= 172, className= B3
+Teacher = Tsoukala, lessonId= 116, className= A2
+Time from : 13:00 to 14:00
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Stavropoulos, lessonId= 121, className= A2
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Antoniou, lessonId= 138, className= B1
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Anastasiou, lessonId= 168, className= B3
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Time from : 14:00 to 15:00
+Teacher = Georgiou, lessonId= 164, className= B3
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Georgiou, lessonId= 164, className= B3
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Apostolopoulou, lessonId= 124, className= A3
+Teacher = Koutroumpis, lessonId= 103, className= A1
+Teacher = Georgiou, lessonId= 188, className= C2
+Teacher = Papadaki, lessonId= 154, className= B2
+		 Wednesday:
+
+Time from : 8:00 to 9:00
+Teacher = Georgiou, lessonId= 188, className= C2
+Teacher = Papadopoulos, lessonId= 150, className= B2
+Teacher = Ntouvlos, lessonId= 171, className= B3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Ntouvlos, lessonId= 171, className= B3
+Teacher = Gkouskou, lessonId= 101, className= A1
+Teacher = Karanikas, lessonId= 148, className= B2
+Time from : 9:00 to 10:00
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Georgiou, lessonId= 151, className= B2
+Teacher = Tzivara, lessonId= 129, className= A3
+Teacher = Gkouskou, lessonId= 101, className= A1
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Sotiropoulos, lessonId= 206, className= C3
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Papadaki, lessonId= 154, className= B2
+Time from : 10:00 to 11:00
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Papathanasiou, lessonId= 152, className= B2
+Teacher = Kotsomitopolos, lessonId= 162, className= B3
+Teacher = Papadaki, lessonId= 154, className= B2
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Teacher = Gkouskou, lessonId= 137, className= B1
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Anastasopoulou, lessonId= 172, className= B3
+Teacher = Gkouskou, lessonId= 113, className= A2
+Time from : 11:00 to 12:00
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Papathanasiou, lessonId= 189, className= C2
+Teacher = Papathanasiou, lessonId= 189, className= C2
+Teacher = Papathanasiou, lessonId= 152, className= B2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Antoniou, lessonId= 126, className= A3
+Time from : 12:00 to 13:00
+Teacher = Gkouskou, lessonId= 101, className= A1
+Teacher = Theodosiou, lessonId= 142, className= B1
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Theodosiou, lessonId= 118, className= A2
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Theodosiou, lessonId= 118, className= A2
+Teacher = Tsoukala, lessonId= 128, className= A3
+Teacher = Papathanasiou, lessonId= 189, className= C2
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Time from : 13:00 to 14:00
+Teacher = Theodosiou, lessonId= 130, className= A3
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Anastasopoulou, lessonId= 172, className= B3
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Stavropoulos, lessonId= 145, className= B1
+Teacher = Antoniou, lessonId= 114, className= A2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Time from : 14:00 to 15:00
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Anastasiou, lessonId= 180, className= C1
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Sotiropoulos, lessonId= 206, className= C3
+Teacher = Spiropoulou, lessonId= 144, className= B1
+Teacher = Papadaki, lessonId= 179, className= C1
+Teacher = Gkouskou, lessonId= 137, className= B1
+Teacher = Karanikas, lessonId= 148, className= B2
+		 Thursday:
+
+Time from : 8:00 to 9:00
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Ntouvlos, lessonId= 171, className= B3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Tsoukala, lessonId= 140, className= B1
+Teacher = Tzivara, lessonId= 117, className= A2
+Teacher = Koutroumpis, lessonId= 127, className= A3
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Papathanasiou, lessonId= 152, className= B2
+Time from : 9:00 to 10:00
+Teacher = Tzivara, lessonId= 117, className= A2
+Teacher = Anastasopoulou, lessonId= 160, className= B2
+Teacher = Tzivara, lessonId= 190, className= C2
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Dimitrakopoulou, lessonId= 200, className= C3
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Gkouskou, lessonId= 125, className= A3
+Teacher = Dimitrakopoulou, lessonId= 201, className= C3
+Teacher = Ntouvlos, lessonId= 159, className= B2
+Time from : 10:00 to 11:00
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Papathanasiou, lessonId= 189, className= C2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Papadaki, lessonId= 154, className= B2
+Teacher = Tsoukala, lessonId= 128, className= A3
+Teacher = Koutroumpis, lessonId= 127, className= A3
+Teacher = Sotiropoulos, lessonId= 107, className= A1
+Time from : 11:00 to 12:00
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Antoniou, lessonId= 138, className= B1
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Tzivara, lessonId= 117, className= A2
+Teacher = Anastasiou, lessonId= 168, className= B3
+Teacher = Kotsomitopolos, lessonId= 149, className= B2
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Papadaki, lessonId= 167, className= B3
+Teacher = Tzivara, lessonId= 105, className= A1
+Time from : 12:00 to 13:00
+Teacher = Papadaki, lessonId= 167, className= B3
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Anastasopoulou, lessonId= 160, className= B2
+Teacher = Papadaki, lessonId= 154, className= B2
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Tzivara, lessonId= 141, className= B1
+Teacher = Papathanasiou, lessonId= 177, className= C1
+Teacher = Koutroumpis, lessonId= 115, className= A2
+Teacher = Tzivara, lessonId= 153, className= B2
+Time from : 13:00 to 14:00
+Teacher = Tzivara, lessonId= 166, className= B3
+Teacher = Anastasiou, lessonId= 168, className= B3
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Tzivara, lessonId= 105, className= A1
+Teacher = Spiropoulou, lessonId= 144, className= B1
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Papadaki, lessonId= 154, className= B2
+Time from : 14:00 to 15:00
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Kotsomitopolos, lessonId= 149, className= B2
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Tzivara, lessonId= 117, className= A2
+Teacher = Tzivara, lessonId= 190, className= C2
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Tsoukala, lessonId= 116, className= A2
+Teacher = Theodosiou, lessonId= 118, className= A2
+Teacher = Spiropoulou, lessonId= 193, className= C2
+		 Friday:
+
+Time from : 8:00 to 9:00
+Teacher = Spiropoulou, lessonId= 181, className= C1
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Anastasopoulou, lessonId= 172, className= B3
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Stavropoulos, lessonId= 121, className= A2
+Teacher = Stavropoulos, lessonId= 145, className= B1
+Time from : 9:00 to 10:00
+Teacher = Papadaki, lessonId= 167, className= B3
+Teacher = Stavropoulos, lessonId= 145, className= B1
+Teacher = Ntouvlos, lessonId= 110, className= A1
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Spiropoulou, lessonId= 193, className= C2
+Teacher = Koutroumpis, lessonId= 127, className= A3
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Spiropoulou, lessonId= 193, className= C2
+Time from : 10:00 to 11:00
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Antoniou, lessonId= 126, className= A3
+Teacher = Ntouvlos, lessonId= 110, className= A1
+Teacher = Tzivara, lessonId= 178, className= C1
+Teacher = Papadaki, lessonId= 191, className= C2
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Sotiropoulos, lessonId= 206, className= C3
+Teacher = Antoniou, lessonId= 126, className= A3
+Time from : 11:00 to 12:00
+Teacher = Dimitrakopoulou, lessonId= 199, className= C3
+Teacher = Ntouvlos, lessonId= 159, className= B2
+Teacher = Anastasopoulou, lessonId= 172, className= B3
+Teacher = Georgiou, lessonId= 176, className= C1
+Teacher = Ntouvlos, lessonId= 171, className= B3
+Teacher = Apostolopoulou, lessonId= 136, className= B1
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Karanikas, lessonId= 148, className= B2
+Teacher = Karanikas, lessonId= 185, className= C2
+Time from : 12:00 to 13:00
+Teacher = Sotiropoulos, lessonId= 107, className= A1
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Antoniou, lessonId= 138, className= B1
+Teacher = Karanikas, lessonId= 161, className= B3
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Georgiou, lessonId= 151, className= B2
+Teacher = Karanikas, lessonId= 161, className= B3
+Time from : 13:00 to 14:00
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Georgiou, lessonId= 164, className= B3
+Teacher = Tsoukala, lessonId= 140, className= B1
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Anastasopoulou, lessonId= 111, className= A1
+Teacher = Anastasiou, lessonId= 197, className= C3
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Time from : 14:00 to 15:00
+Teacher = Anastasopoulou, lessonId= 160, className= B2
+Teacher = Karanikas, lessonId= 185, className= C2
+Teacher = Stavropoulos, lessonId= 109, className= A1
+Teacher = Anastasopoulou, lessonId= 196, className= C2
+Teacher = Spiropoulou, lessonId= 169, className= B3
+Teacher = Anastasopoulou, lessonId= 172, className= B3
+Teacher = Stavropoulos, lessonId= 121, className= A2
+Teacher = Antoniou, lessonId= 102, className= A1
+Teacher = Spiropoulou, lessonId= 169, className= B3
