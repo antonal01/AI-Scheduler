@@ -25,7 +25,7 @@ to form a new chromosome.
 
 ### Specifically
 
-Assuming that each week has five teaching days, each with a maximum of seven hours. 
-The program receives two files with courses and teachers info. The purpose is to find a schedule that meets the conditions of those two files.
-Eventually generating a schedule file that represents weekly schedule for the high school.
+ Assuming that each week has five teaching days, each with a maximum of seven hours. 
+ The program receives two files with courses and teacher's info. The purpose is to find a schedule that meets the conditions of those two files.
+ Eventually generating a schedule file that represents the weekly schedule for the high school.
 
