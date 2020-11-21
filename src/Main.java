@@ -1,6 +1,3 @@
-//Κωτσομητόπουλος Σταύρος - ΑΜ: 3150086
-//Αντωνίου Αλέξανδρος - ΑΜ: 3140248
-
 public class Main
 {
 	public static void main(String[] args)
